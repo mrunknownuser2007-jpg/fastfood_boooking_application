@@ -1,0 +1,120 @@
+body {
+    background-image:url(btech1.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+style 
+    {
+    text-decoration: color-mix(in srgb-linear, color percentage, color percentage) ;
+
+}
+.navbar{
+    background: rgb(197, 17, 53); font-family: calibri ; padding-right: 15px;padding-left:15px;
+}
+.navdiv{
+    display: flex;
+    align-items: first baseline;
+     
+    justify-content: space-between;
+}
+.logo a{
+    font-size: 25px; 
+    font-weight: 600; 
+    color: rgb(72, 56, 176);
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+li a{
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    margin-right: 25px;
+
+}
+button{
+    background-color: black;
+    margin-left: 15px;
+    border-radius: 10px;
+    padding: 10px;
+    width: 90px;
+                
+}
+button a{
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+
+h1{
+    color:rgb(153, 22, 103);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    font-family: "Times New Roman";
+    font-weight: bold;
+    font-size: 150px;
+}
+
+
+p{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-family: "Times New Roman";
+    font-weight: bold;
+    font-size: 100px;
+}
+c{  
+    color:blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-family: "Times New Roman";
+    font-weight: bold;
+    font-size: 20px;
+}
+
+    
+
+
+a{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-family: "Times New Roman";
+    font-weight: bold;
+    font-size: 50px;
+
+}
+.form_container{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border: 1px solid rgb(101, 101, 101);
+    width: fit-content;
+    padding: 10px;
+    margin: auto;
+    border-radius: 10%; 
+}
+h2{
+    color:rgb(153, 22, 103);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    font-family: "Times New Roman";
+    font-weight: bold;
+    font-size: 20px;
+}    
